@@ -16,6 +16,9 @@ class IPPCurrency {
             case "203":
             case "CZK":
                 return ["CZK", "Croatian Kuna", "203", "CZ", "CZK"];
+            case "208":
+            case "DKK":
+                return ["DKK", "Danish Krone", "208", "DK", "DNK"];
             case "320":
             case "GTQ":
                 return ["GTQ", "Quetzal", "320", "GT" , "GTM"];
